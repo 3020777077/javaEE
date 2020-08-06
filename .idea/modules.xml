@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring5_ioc2_autowireBean/Spring5_ioc2_autowireBean.iml" filepath="$PROJECT_DIR$/spring5_ioc2_autowireBean/Spring5_ioc2_autowireBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaEE.iml" filepath="$PROJECT_DIR$/javaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5_aop/spring5_aop.iml" filepath="$PROJECT_DIR$/spring5_aop/spring5_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5_ioc1_bean/spring5_ioc1_bean.iml" filepath="$PROJECT_DIR$/spring5_ioc1_bean/spring5_ioc1_bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5_ioc3_aopbean/spring5_ioc3_aopbean.iml" filepath="$PROJECT_DIR$/spring5_ioc3_aopbean/spring5_ioc3_aopbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5_jdbcTemplate/spring5_jdbcTemplate.iml" filepath="$PROJECT_DIR$/spring5_jdbcTemplate/spring5_jdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5_manager/spring5_manager.iml" filepath="$PROJECT_DIR$/spring5_manager/spring5_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5_new/spring5_new.iml" filepath="$PROJECT_DIR$/spring5_new/spring5_new.iml" />
+    </modules>
+  </component>
+</project>
