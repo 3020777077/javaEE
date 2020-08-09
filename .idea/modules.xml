@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring5.iml" filepath="$PROJECT_DIR$/Spring5.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring5_ioc2_autowireBean/Spring5_ioc2_autowireBean.iml" filepath="$PROJECT_DIR$/spring5_ioc2_autowireBean/Spring5_ioc2_autowireBean.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javaEE.iml" filepath="$PROJECT_DIR$/javaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring5_aop/spring5_aop.iml" filepath="$PROJECT_DIR$/spring5_aop/spring5_aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring5_ioc1_bean/spring5_ioc1_bean.iml" filepath="$PROJECT_DIR$/spring5_ioc1_bean/spring5_ioc1_bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring5_ioc3_aopbean/spring5_ioc3_aopbean.iml" filepath="$PROJECT_DIR$/spring5_ioc3_aopbean/spring5_ioc3_aopbean.iml" />
